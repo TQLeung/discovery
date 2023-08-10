@@ -1,5 +1,7 @@
 # `Discovery`
 
+## 学习STM32DiscoveryF303VCT6 board。 forked repository 2023-08-10
+
 Discover the world of microcontrollers through [Rust](https://www.rust-lang.org/)!
 
 There are currently two versions of this book. Both of them provide an
